@@ -1,0 +1,9 @@
+html {
+  font-size: 62.5%; }
+
+nav ul {
+  display: flex; }
+  nav ul li {
+    font-size: 2rem; }
+    nav ul li a {
+      text-decoration: none; }
